@@ -1,9 +1,7 @@
 import React from 'react';
-import Navbar from '../Navbar/Navbar';
 const AboutUs = () => {
   return (
     <>
-    <Navbar/>
     <div className='about-us'>
         <h3 style={{padding:"0 0.75rem"}}>Made by AyraTech Solutions ❤️</h3>
         <ul>
